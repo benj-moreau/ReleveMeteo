@@ -1,6 +1,5 @@
 /*
  * Micro-projet 2 : Simulation relevé periodique de température en temps réel
- * MOREAU Benjamin, LENORMAND Jasone 
  */
 #include <stdio.h>
 #include <stdlib.h>
@@ -188,3 +187,7 @@ int main(){
 	printf("Fermeture du programme \n");
 	return 0;
 }
+
+/*
+*MOREAU Benjamin
+*/
